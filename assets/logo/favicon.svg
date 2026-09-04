@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dragon Money">
+  <defs>
+    <linearGradient id="dmA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#FFC93A"/>
+      <stop offset="55%" stop-color="#EEA124"/>
+      <stop offset="100%" stop-color="#B77816"/>
+    </linearGradient>
+    <linearGradient id="dmH" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#2E3242"/>
+      <stop offset="100%" stop-color="#0E1018"/>
+    </linearGradient>
+  </defs>
+  <!-- фон-плитка -->
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#1D202B"/>
+  <!-- цилиндр -->
+  <rect x="18" y="6"  width="20" height="14" rx="1"  fill="url(#dmH)"/>
+  <rect x="14" y="19" width="28" height="4"  rx="1"  fill="url(#dmH)"/>
+  <!-- голова дракона -->
+  <path d="M14 34
+           C 14 26, 22 22, 30 24
+           C 38 25, 44 30, 44 36
+           C 44 41, 40 45, 34 45
+           C 30 49, 22 48, 20 42
+           C 14 42, 12 38, 14 34 Z"
+        fill="url(#dmA)" stroke="#7A4E0E" stroke-width="1.2"/>
+  <!-- рог -->
+  <path d="M40 24 L48 16 L48 28 Z" fill="url(#dmA)" stroke="#7A4E0E" stroke-width="1"/>
+  <!-- глаз -->
+  <circle cx="34" cy="32" r="3" fill="#FFFFFF"/>
+  <circle cx="34.6" cy="32.6" r="1.6" fill="#1D202B"/>
+  <!-- зубы -->
+  <path d="M24 41 L26 45 L28 41 L30 45 L32 41" fill="#FFFFFF"/>
+  <!-- галстук -->
+  <path d="M28 50 L36 50 L34 60 L30 60 Z" fill="#E63241" stroke="#7A0F16" stroke-width="0.8"/>
+  <path d="M30 50 L34 50 L33 52 L31 52 Z" fill="#B01926"/>
+</svg>
