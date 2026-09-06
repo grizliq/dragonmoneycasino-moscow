@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url>
-    <loc>https://dragonmoneycasino.moscow/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://dragonmoneycasino.moscow/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://dragonmoneycasino.moscow/" />
-    <image:image>
-      <image:loc>https://dragonmoneycasino.moscow/assets/logo/dragon-hero.svg</image:loc>
-      <image:title>Dragon Money — Драгон Мани</image:title>
-      <image:caption>Официальный сайт Dragon Money Casino</image:caption>
-    </image:image>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://dragonmoneycasino.moscow/</loc><lastmod>2026-09-06</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dragonmoneycasino.moscow/bonus/</loc><lastmod>2026-09-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dragonmoneycasino.moscow/vhod/</loc><lastmod>2026-09-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dragonmoneycasino.moscow/zerkalo/</loc><lastmod>2026-09-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dragonmoneycasino.moscow/promokod/</loc><lastmod>2026-09-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dragonmoneycasino.moscow/registraciya/</loc><lastmod>2026-09-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dragonmoneycasino.moscow/vyvod/</loc><lastmod>2026-09-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dragonmoneycasino.moscow/otzyvy/</loc><lastmod>2026-09-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
